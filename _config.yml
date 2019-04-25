@@ -45,7 +45,6 @@ projects:
   # youtube: your_username
 
 topics:
-  
   - name: Node
     web_url: https://github.com/topics/node
     image_url:https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
@@ -71,8 +70,8 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
   - name: Kubernetes
-   web_url: https://github.com/topics/kubernetes
-   image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
 
 - name: Linux
    web_url: https://github.com/topics/linux
@@ -89,8 +88,7 @@ topics:
 - name: PHP
    web_url: https://github.com/topics/php
    image_url: https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png
-
-
+   
 - name: PWA
    web_url: https://github.com/topics/pwa
    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png
